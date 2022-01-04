@@ -1,0 +1,12 @@
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\bin\Debug\netstandard2.1\FullStack.Application.deps.json
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\bin\Debug\netstandard2.1\FullStack.Application.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\bin\Debug\netstandard2.1\FullStack.Application.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\obj\Debug\netstandard2.1\FullStack.Application.csprojAssemblyReference.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\obj\Debug\netstandard2.1\FullStack.Application.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\obj\Debug\netstandard2.1\FullStack.Application.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\obj\Debug\netstandard2.1\FullStack.Application.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\obj\Debug\netstandard2.1\FullStack.Application.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\obj\Debug\netstandard2.1\FullStack.Application.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\bin\Debug\netstandard2.1\FullStack.Domain.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\bin\Debug\netstandard2.1\FullStack.Domain.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Application\obj\Debug\netstandard2.1\FullStack.Application.csproj.CopyComplete

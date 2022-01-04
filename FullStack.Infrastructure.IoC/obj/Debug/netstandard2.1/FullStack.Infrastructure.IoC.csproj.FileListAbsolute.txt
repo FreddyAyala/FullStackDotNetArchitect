@@ -1,0 +1,16 @@
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Infrastructure.IoC.deps.json
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Infrastructure.IoC.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Infrastructure.IoC.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\obj\Debug\netstandard2.1\FullStack.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\obj\Debug\netstandard2.1\FullStack.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\obj\Debug\netstandard2.1\FullStack.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\obj\Debug\netstandard2.1\FullStack.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\obj\Debug\netstandard2.1\FullStack.Infrastructure.IoC.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\obj\Debug\netstandard2.1\FullStack.Infrastructure.IoC.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Application.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Domain.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Infrastructure.Data.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Application.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Domain.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\bin\Debug\netstandard2.1\FullStack.Infrastructure.Data.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.IoC\obj\Debug\netstandard2.1\FullStack.Infrastructure.IoC.csproj.CopyComplete

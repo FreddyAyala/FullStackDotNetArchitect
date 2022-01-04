@@ -1,0 +1,45 @@
+﻿@using FullStack.Domain.ViewModels;
+@page "/todos"
+@inject HttpClient Http
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+<h1>Todo List</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (todos == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>IsDone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var todo in todos.Todos)
+            {
+                <tr>
+                    <td>@todo.Id</td>
+                    <td>@todo.Title</td>
+                    <td>@todo.IsDone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private TodoViewModel todos;
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        todos = await Http.GetFromJsonAsync<TodoViewModel>(Configuration["ApiUrl"] + "todo");
+    }
+}

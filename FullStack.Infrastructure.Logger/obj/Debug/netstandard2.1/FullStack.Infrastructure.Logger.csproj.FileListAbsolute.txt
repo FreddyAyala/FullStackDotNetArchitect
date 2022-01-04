@@ -1,0 +1,9 @@
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\bin\Debug\netstandard2.1\FullStack.Infrastructure.Logger.deps.json
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\bin\Debug\netstandard2.1\FullStack.Infrastructure.Logger.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\bin\Debug\netstandard2.1\FullStack.Infrastructure.Logger.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\obj\Debug\netstandard2.1\FullStack.Infrastructure.Logger.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\obj\Debug\netstandard2.1\FullStack.Infrastructure.Logger.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\obj\Debug\netstandard2.1\FullStack.Infrastructure.Logger.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\obj\Debug\netstandard2.1\FullStack.Infrastructure.Logger.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\obj\Debug\netstandard2.1\FullStack.Infrastructure.Logger.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Logger\obj\Debug\netstandard2.1\FullStack.Infrastructure.Logger.csprojAssemblyReference.cache

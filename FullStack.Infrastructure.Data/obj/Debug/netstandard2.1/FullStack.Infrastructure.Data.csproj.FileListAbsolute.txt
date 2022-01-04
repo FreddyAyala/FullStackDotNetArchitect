@@ -1,0 +1,12 @@
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\obj\Debug\netstandard2.1\FullStack.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\obj\Debug\netstandard2.1\FullStack.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\obj\Debug\netstandard2.1\FullStack.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\obj\Debug\netstandard2.1\FullStack.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\bin\Debug\netstandard2.1\FullStack.Infrastructure.Data.deps.json
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\bin\Debug\netstandard2.1\FullStack.Infrastructure.Data.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\bin\Debug\netstandard2.1\FullStack.Infrastructure.Data.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\bin\Debug\netstandard2.1\FullStack.Domain.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\bin\Debug\netstandard2.1\FullStack.Domain.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\obj\Debug\netstandard2.1\FullStack.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\obj\Debug\netstandard2.1\FullStack.Infrastructure.Data.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Infrastructure.Data\obj\Debug\netstandard2.1\FullStack.Infrastructure.Data.pdb

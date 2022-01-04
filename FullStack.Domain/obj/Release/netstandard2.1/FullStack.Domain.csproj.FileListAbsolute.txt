@@ -1,0 +1,9 @@
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\bin\Release\netstandard2.1\FullStack.Domain.deps.json
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\bin\Release\netstandard2.1\FullStack.Domain.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\bin\Release\netstandard2.1\FullStack.Domain.pdb
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\obj\Release\netstandard2.1\FullStack.Domain.csprojAssemblyReference.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\obj\Release\netstandard2.1\FullStack.Domain.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\obj\Release\netstandard2.1\FullStack.Domain.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\obj\Release\netstandard2.1\FullStack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\obj\Release\netstandard2.1\FullStack.Domain.dll
+C:\Users\Freddy\source\repos\FullStackToDoListCourse\FullStack.Domain\obj\Release\netstandard2.1\FullStack.Domain.pdb

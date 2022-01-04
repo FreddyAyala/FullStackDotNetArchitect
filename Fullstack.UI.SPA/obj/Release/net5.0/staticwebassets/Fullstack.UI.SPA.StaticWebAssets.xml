@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Freddy\source\repos\FullStackToDoListCourse\Fullstack.UI.SPA\bin\Release\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Freddy\source\repos\FullStackToDoListCourse\Fullstack.UI.SPA\obj\Release\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

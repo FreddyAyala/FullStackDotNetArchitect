@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fullstack.api:
+    image: ${DOCKER_REGISTRY-}fullstackapi
+    build:
+      context: .
+      dockerfile: FullStack.API/Dockerfile
